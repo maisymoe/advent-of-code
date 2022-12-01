@@ -17,7 +17,8 @@
         "@types/node": "^16.11.6",
         "aocrunner": "^1.6.1",
         "esbuild": "^0.15.16",
-        "prettier": "^2.4.1"
+        "prettier": "^2.4.1",
+        "typescript": "^4.9.3"
     },
     "engines": {
         "node": ">=16.13.0"

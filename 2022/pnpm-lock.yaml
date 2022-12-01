@@ -5,12 +5,14 @@ specifiers:
   aocrunner: ^1.6.1
   esbuild: ^0.15.16
   prettier: ^2.4.1
+  typescript: ^4.9.3
 
 devDependencies:
   '@types/node': 16.18.4
   aocrunner: 1.6.1
   esbuild: 0.15.16
   prettier: 2.8.0
+  typescript: 4.9.3
 
 packages:
 
